@@ -14,6 +14,7 @@ Projeto acadêmico desenvolvido para a disciplina de Microsserviços em TI do Ce
 - Jackeline Pessoa Gomes  
 - Thalita Silva Ferreira
 - Sara Alcantara
+- Jhonata Felix Barbosa 
 - Leonardo Fernandez de Souza Sales
 - Maria Eduarda Rodrigues dos Santos
 
