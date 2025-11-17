@@ -4,12 +4,12 @@
 
 Projeto acadêmico desenvolvido para a disciplina de Microsserviços em TI do Centro Universitário Senac Santo Amaro.
 
-### 🚀 Tecnologias
+###  Tecnologias
 - **Python** + Flask
 - **Docker** + Docker Compose
 - **Git** + GitHub
 
-### 📦 Como executar
+###  Como executar
 
 #### Com Docker Compose (Recomendado):
 \\\ash
@@ -23,11 +23,11 @@ docker build -t duddszyy/validacao:1.0.0 .
 docker run -p 5000:5000 duddszyy/validacao:1.0.0
 \\\
 
-### 🌐 Endpoints
+### Endpoints
 - \GET /health\ - Status do serviço
 - \POST /api/validacao/fairness\ - Teste de fairness
 
-### 👥 Integrantes
+### Integrantes
 - Carlos Henrique Silva dos Santos
 - Jackeline Pessoa Gomes  
 - Thalita Silva Ferreira
