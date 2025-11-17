@@ -1,0 +1,10 @@
+﻿version: '3.8'
+
+services:
+  validacao:
+    build: .
+    image: duddszyy/validacao:1.0.0
+    container_name: microsservico-validacao
+    ports:
+      - '5000:5000'
+    restart: unless-stopped
